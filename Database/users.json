@@ -1,0 +1,302 @@
+[
+    {
+      "_id": "121",
+      "username": "iron_man",
+      "password": "stark123",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tony@stark.com",
+      "dob": "1970-05-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "122",
+      "username": "dark_knight",
+      "password": "wayne123",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "email": "bruce@wayne.com",
+      "dob": "1972-02-19",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "123",
+      "username": "capt_america",
+      "password": "rogers123",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steve@avengers.com",
+      "dob": "1918-07-04",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "124",
+      "username": "black_widow",
+      "password": "romanoff123",
+      "firstName": "Natasha",
+      "lastName": "Romanoff",
+      "email": "natasha@avengers.com",
+      "dob": "1984-11-22",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "125",
+      "username": "thor_odinson",
+      "password": "mjolnir123",
+      "firstName": "Thor",
+      "lastName": "Odinson",
+      "email": "thor@asgard.com",
+      "dob": "982-05-25",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "126",
+      "username": "hulk_smash",
+      "password": "banner123",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "bruce@avengers.com",
+      "dob": "1969-12-18",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "127",
+      "username": "ring_bearer",
+      "password": "shire123",
+      "firstName": "Frodo",
+      "lastName": "Baggins",
+      "email": "frodo@shire.com",
+      "dob": "1368-09-22",
+      "role": "FACULTY"
+    },
+    {
+      "_id": "128",
+      "username": "strider",
+      "password": "aragorn123",
+      "firstName": "Aragorn",
+      "lastName": "Elessar",
+      "email": "aragorn@gondor.com",
+      "dob": "2931-03-01",
+      "role": "FACULTY"
+    },
+    {
+      "_id": "129",
+      "username": "elf_archer",
+      "password": "legolas123",
+      "firstName": "Legolas",
+      "lastName": "Greenleaf",
+      "email": "legolas@mirkwood.com",
+      "dob": "2879-07-15",
+      "role": "FACULTY"
+    },
+    {
+        "_id": "130",
+        "username": "sabrina_spellman",
+        "password": "spellman123",
+        "firstName": "Sabrina",
+        "lastName": "Spellman",
+        "email": "sabrina@spellman.com",
+        "dob": "2819-03-15",
+        "role": "STUDENT"
+    },
+    {
+        "_id": "131",
+        "username": "hilda_spellman",
+        "password": "hilda123",
+        "firstName": "Hilda",
+        "lastName": "Spellman",
+        "email": "hilda@spellman.com",
+        "dob": "1830-05-27",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "132",
+        "username": "zelda_spellman",
+        "password": "zelda123",
+        "firstName": "Zelda",
+        "lastName": "Spellman",
+        "email": "zelda@spellman.com",
+        "dob": "1823-02-19",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "133",
+        "username": "nick_scratch",
+        "password": "scratch123",
+        "firstName": "Nick",
+        "lastName": "Scratch",
+        "email": "nick@scratch.com",
+        "dob": "1996-07-04",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "134",
+        "username": "harvey_kinkle",
+        "password": "kinkle123",
+        "firstName": "Harvey",
+        "lastName": "Kinkle",
+        "email": "harvey@kinkle.com",
+        "dob": "1996-11-22",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "135",
+        "username": "abrose_spellman",
+        "password": "spellman123",
+        "firstName": "Ambrose",
+        "lastName": "Spellman",
+        "email": "ambrose@spellman.com",
+        "dob": "1882-05-25",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "136",
+        "username": "theo_putnam",
+        "password": "putnam123",
+        "firstName": "Theo",
+        "lastName": "Putnam",
+        "email": "theo@putnam.com",
+        "dob": "1996-12-18",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "137",
+        "username": "madam_satan",
+        "password": "lilith123",
+        "firstName": "Lilith",
+        "lastName": "Mother",
+        "email": "lilith@mother.com",
+        "dob": "1300-11-11",
+        "role": "FACULTY"
+      },
+      {
+        "_id": "138",
+        "username": "lucifer_morningstar",
+        "password": "devil123",
+        "firstName": "Lucifer",
+        "lastName": "Morningstar",
+        "email": "lucifer@morningstar.com",
+        "dob": "0011-03-01",
+        "role": "FACULTY"
+      },
+      {
+        "_id": "139",
+        "username": "elena_gilbert",
+        "password": "gilbert123",
+        "firstName": "Elena",
+        "lastName": "Gilbert",
+        "email": "legolas@mirkwood.com",
+        "dob": "1980-07-15",
+        "role": "FACULTY"
+      },
+      {
+          "_id": "140",
+          "username": "stefan_salvatore",
+          "password": "salvatore123",
+          "firstName": "Stefan",
+          "lastName": "Salvatore",
+          "email": "stefan@salvatore.com",
+          "dob": "1345-02-15",
+          "role": "STUDENT"
+      },
+      {
+        "_id": "141",
+        "username": "damon_salvatore",
+        "password": "dsalv123",
+        "firstName": "Damon",
+        "lastName": "Salvatore",
+        "email": "damon@salvatore.com",
+        "dob": "1342-05-29",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "142",
+        "username": "caroline_forbes",
+        "password": "forbes123",
+        "firstName": "Caroline",
+        "lastName": "Forbes",
+        "email": "caroline@forbes.com",
+        "dob": "1980-02-19",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "143",
+        "username": "bonnie_bennett",
+        "password": "bennett123",
+        "firstName": "Bonnie",
+        "lastName": "Bennett",
+        "email": "bonnie@bennet.com",
+        "dob": "1980-07-04",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "144",
+        "username": "matt_donovan",
+        "password": "donovan123",
+        "firstName": "Matt",
+        "lastName": "Donovan",
+        "email": "matt@donovan.com",
+        "dob": "1980-11-22",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "145",
+        "username": "tyler_wolf",
+        "password": "wolf123",
+        "firstName": "Tyler",
+        "lastName": "Wolf",
+        "email": "tyler@wolf.com",
+        "dob": "1980-05-25",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "146",
+        "username": "jeremy_gilbert",
+        "password": "gilbert123",
+        "firstName": "Jeremy",
+        "lastName": "Gilbert",
+        "email": "jeremy@gilbert.com",
+        "dob": "1983-12-18",
+        "role": "STUDENT"
+      },
+      {
+        "_id": "147",
+        "username": "kat_petrova",
+        "password": "petrova123",
+        "firstName": "Katherine",
+        "lastName": "Petrova",
+        "email": "kat@petrova.com",
+        "dob": "1268-09-22",
+        "role": "FACULTY"
+      },
+      {
+        "_id": "148",
+        "username": "jenna_sommers",
+        "password": "sommers123",
+        "firstName": "Jenna",
+        "lastName": "Sommers",
+        "email": "jenna@sommers.com",
+        "dob": "1973-03-01",
+        "role": "FACULTY"
+      },
+      {
+        "_id": "149",
+        "username": "m_fell",
+        "password": "fell123",
+        "firstName": "Meredith",
+        "lastName": "Fell",
+        "email": "m@fell.com",
+        "dob": "1979-07-15",
+        "role": "FACULTY"
+      },
+      {
+          "_id": "150",
+          "username": "rose_red",
+          "password": "red123",
+          "firstName": "Rose",
+          "lastName": "Red",
+          "email": "rose@red.com",
+          "dob": "1999-03-15",
+          "role": "STUDENT"
+      }
+]
