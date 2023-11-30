@@ -45,7 +45,8 @@ mongoose.connect(CONNECTION_STRING);
 //       credentials: true,
 //       origin: process.env.FRONTEND_URL
 //     })
-//   );  
+//   );
+app.get("/env", (req, res) => res.send(process.env))
 CourseRoutes(app);
 ModuleRoutes(app);
 Lab5(app);
